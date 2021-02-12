@@ -1,5 +1,3 @@
-![](trackGIF1.gif)
-
 
 
 
@@ -51,3 +49,8 @@ Brief overfview of how the classes work:
 	• takes pre-existing experiment values and populates the Edit Fragment
 	◦Uses serialization to call individual class to edit
 	• Then populates new data sa
+
+
+
+![](trackGIF1.gif)
+
