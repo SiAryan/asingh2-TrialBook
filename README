@@ -29,22 +29,3 @@ Aryan Singh
 
 
 
-
-
-Brief overfview of how the classes work:
-
-	Experiment class :
-	• implement serializable so individual experiment can be called in the edit Fragment
-
-	ExperimentList class:
-	• contains experiments
-	• Content view is populated with data in this class’s getView() function
-
-	AddExperimentFragment class:
-	• Asks the user for data values to populate an individual experiment
-	• Success and failure buttons are implemented here (also in the EditExperimentFragment)
-
-	EditExperimentFragment class:
-	• takes pre-existing experiment values and populates the Edit Fragment
-	◦Uses serialization to call individual class to edit
-	• Then populates new data sa
