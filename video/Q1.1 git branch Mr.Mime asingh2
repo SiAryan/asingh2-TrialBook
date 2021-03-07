@@ -1,0 +1,30 @@
+Q1.1 git branch Mr.Mime asingh2
+
+	checkout Mr.mime into a new bracnch to work on pichu
+
+Q1.2 git branch pichu asingh2
+
+	same concept
+
+Q1.3 git branch Pikachu asingh2
+	
+	same concept
+
+
+
+Q2.1 git checkout Raichu 
+	 git merge asingh2
+
+	 checkout main branch then merge deature 
+
+Q2.2 git checkout Pichu
+	 git merge asingh2
+
+	 same concept
+
+Q2.3   likely that it wont work cause i need an external reference to confirm my command line 
+
+Q2.4 git checkout Pikachu
+	 git merge Pichu
+
+	 same concept as Q2.1 and Q2.2
